@@ -1,7 +1,5 @@
-package it.unipv.ingsfw.patterns.adapter.tester;
+package it.unipv.ingsfw.patterns.adapter;
 
-import it.unipv.ingsfw.patterns.adapter.EUWallet;
-import it.unipv.ingsfw.patterns.adapter.IWallet;
 import it.unipv.ingsfw.patterns.adapter.usdollar.USDollarAdapter;
 import it.unipv.ingsfw.patterns.adapter.usdollar.USDollarWallet;
 
